@@ -1,0 +1,15 @@
+[
+    {
+        "name":"Microsoft Azure AI Essentials Professional Certificate",
+        "issuer":"Microsoft and LinkedIn",
+        "image":"/static/data/Azure AI Essentials.jpg",
+        "description": "Covers the core concepts related to Artificial Intelligence (AI), along with Microsoft Azure services that can be used to build AI-powered solutions."
+
+    },
+    {
+        "name":"AI Agents Fundamentals",
+        "issuer":"Hugging Face",
+        "image":"/static/data/ai_agents_fundamentals.png",
+        "description": "Explored how AI agents operate using the Tools–Thoughts–Actions–Observations (TTAO) loop and their structured formats. Gained practical understanding of how LLMs handle messages, special tokens,and chat templates. Built simple agentic systems using Python functions as tools."
+    }
+]
